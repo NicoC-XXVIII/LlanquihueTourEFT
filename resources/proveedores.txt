@@ -1,0 +1,3 @@
+19.131.242-1;Hotel Lago Llanquihue;+56911112222;Alojamiento;4.5
+22.345.654-2;Transportes del Sur;+56933334444;Transporte;4.8
+18.987.543-3;Restaurant Sabores del Lago;+56955556666;Alimentación;4.2

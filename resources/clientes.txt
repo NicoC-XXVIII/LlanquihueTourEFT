@@ -1,0 +1,3 @@
+12.345.678-0;Juan Pérez;+569874123;jjperez123@email;Gastronómico
+18.765.432-1;Maria Becerra;+569874124;mgarcia123@email;Paseo Lacustre
+12.345.679-3;Pedro Acuña;+569874125;pgarcia123@email;Paseo en bote
