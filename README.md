@@ -1,61 +1,104 @@
 # Llanquihue Tour EFT
 
-EFT Llanquihue Tour, Doo1
+Una aplicación Java profesional para la gestión y visualización del tour turístico de Llanquihue.
 
-## Overview
+## 📋 Descripción
 
-This is a Java-based project for the Llanquihue Tour EFT application.
+Este proyecto implementa un sistema de tour turístico para la región de Llanquihue, desarrollado con Java siguiendo buenas prácticas de ingeniería de software y arquitectura limpia.
 
-## Technologies
+## ✨ Características
 
-- **Language**: Java
+- Gestión integral de tours turísticos
+- Interfaz intuitiva y fácil de usar
+- Arquitectura modular y escalable
+- Código limpio y bien documentado
 
-## Getting Started
+## 🛠️ Tecnologías
 
-### Prerequisites
+- **Lenguaje**: Java
+- **Versión mínima de JDK**: 8 o superior
+- **Build**: Maven / Gradle
 
-- Java Development Kit (JDK) 8 or higher
-- Maven or Gradle (depending on your build system)
+## 📦 Prerrequisitos
 
-### Installation
+- Java Development Kit (JDK) 8 o superior
+- Maven 3.6+ o Gradle 6.0+
+- Git
 
-1. Clone the repository:
+## 🚀 Instalación y Configuración
+
+### 1. Clonar el repositorio
+
 ```bash
 git clone https://github.com/NicoC-XXVIII/LlanquihueTourEFT.git
-```
-
-2. Navigate to the project directory:
-```bash
 cd LlanquihueTourEFT
 ```
 
-3. Build the project:
-```bash
-# Using Maven
-mvn clean install
+### 2. Construir el proyecto
 
-# Using Gradle
+**Con Maven:**
+```bash
+mvn clean install
+```
+
+**Con Gradle:**
+```bash
 gradle build
 ```
 
-## Usage
+### 3. Ejecutar la aplicación
 
-[Add usage instructions here]
+**Con Maven:**
+```bash
+mvn exec:java -Dexec.mainClass="com.llanquihue.tour.Main"
+```
 
-## Features
+**Con Gradle:**
+```bash
+gradle run
+```
 
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+## 📖 Uso
 
-## Contributing
+Para obtener información detallada sobre cómo usar la aplicación, consulte la [documentación](./docs) del proyecto.
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+## 🏗️ Estructura del Proyecto
 
-## License
+```
+LlanquihueTourEFT/
+├── src/
+│   ├── main/java/
+│   └── test/java/
+├── pom.xml (Maven) o build.gradle (Gradle)
+└── README.md
+```
 
-[Add your license here]
+## 🤝 Contribuciones
 
-## Author
+Las contribuciones son bienvenidas. Para contribuir:
 
-NicoC-XXVIII
+1. Fork el repositorio
+2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
+3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
+4. Push a la rama (`git push origin feature/AmazingFeature`)
+5. Abre un Pull Request
+
+Por favor, asegúrate de que tu código sigue los estándares del proyecto y incluye pruebas unitarias.
+
+## 📝 Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
+
+## 👤 Autor
+
+**NicoC-XXVIII**
+
+- GitHub: [@NicoC-XXVIII](https://github.com/NicoC-XXVIII)
+
+## 📞 Soporte
+
+Si tienes preguntas o encuentras problemas, por favor abre un [issue](https://github.com/NicoC-XXVIII/LlanquihueTourEFT/issues) en este repositorio.
+
+---
+
+**Última actualización**: Julio 2026
